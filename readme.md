@@ -38,7 +38,9 @@ Developed by a critical care nurse with 8 years of experience in a medical-neuro
 
 ## Screenshots
 
-*(Coming soon)*
+| Glasgow Principal | Alerta Vía Aérea | NIHSS |
+|:-:|:-:|:-:|:-:|
+| ![Glasgow main](screenshots/glasgow_main.png) | ![Alerta](screenshots/airway_alert.png) | ![NIHSS](screenshots/nihss.png) |
 
 ---
 
